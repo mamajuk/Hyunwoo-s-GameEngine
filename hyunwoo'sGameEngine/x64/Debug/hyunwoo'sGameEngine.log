@@ -1,0 +1,47 @@
+﻿  GameEngine.cpp
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(74,15): warning C4244: 'return': conversion from 'long double' to 'const int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,16): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(7,8): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(21,1): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,9): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,20): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(184,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(185,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\GameEngine.cpp(161,22): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\GameEngine.cpp(168,22): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
+  Renderer.cpp
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(74,15): warning C4244: 'return': conversion from 'long double' to 'const int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,16): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(7,8): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(21,1): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,9): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,20): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(184,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(185,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Rendering\Renderer.cpp(80,48): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Rendering\Renderer.cpp(90,44): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Rendering\Renderer.cpp(146,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  String_lamda.cpp
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(74,15): warning C4244: 'return': conversion from 'long double' to 'const int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,16): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(7,8): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(21,1): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,9): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,20): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(184,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(185,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+  source.cpp
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(74,15): warning C4244: 'return': conversion from 'long double' to 'const int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,16): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Math.h(7,8): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(21,1): warning C4099: 'hyunwoo::Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(7,9): message : see declaration of 'hyunwoo::Vector2'
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(181,20): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(184,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\hyunwoo'sGameEngine\GameEngine\Math\Vector.h(185,8): warning C4244: '/=': conversion from 'const float' to 'int', possible loss of data
+  Generating Code...
+  hyunwoo'sGameEngine.vcxproj -> C:\Users\우수컴\source\repos\hyunwoo'sGameEngine\x64\Debug\hyunwoo'sGameEngine.exe
